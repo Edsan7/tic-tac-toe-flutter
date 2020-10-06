@@ -4,10 +4,10 @@ Um jogo da velha criado em Flutter na disciplina de Programação Mobile
 na Faculdade de Tecnologia de Americana. Professor Kleber Andrade.
 
 <p align="center">
-    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe01_akdim9.png" width="250" />
-    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe02_jhkjai.png" width="250" />
-    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe03_k8f4a2.png" width="250" />
-    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014168/tic-tac-toe/tictactoe04_rtzco1.png" width="250" />
+    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe01_akdim9.png" width="200" />
+    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe02_jhkjai.png" width="200" />
+    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014095/tic-tac-toe/tictactoe03_k8f4a2.png" width="200" />
+    <img src="https://res.cloudinary.com/edsan/image/upload/v1602014168/tic-tac-toe/tictactoe04_rtzco1.png" width="200" />
 </p>
 
 ## Desafios
